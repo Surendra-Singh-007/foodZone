@@ -1,0 +1,17 @@
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background:url(https://static.vecteezy.com/system/resources/previews/006/998/394/non_2x/blue-abstract-background-blue-background-design-abstract-futuristic-background-free-vector.jpg)
+}
+
+button {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  font-weight: 900;
+  background-color: rgb(50, 50, 172);
+  color: #fff;
+}

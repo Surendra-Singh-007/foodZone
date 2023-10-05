@@ -1,0 +1,16 @@
+.menu-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.oth {
+    background-color: rgb(214, 44, 109);
+    margin-left: 20px;
+    border: none;
+    padding: 7px 15px;
+}
+
+.oth:hover {
+    background-color:rgb(209, 57, 115);
+}

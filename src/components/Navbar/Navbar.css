@@ -1,0 +1,13 @@
+.nav_bar {
+  background-color: rgb(50, 50, 172);
+  color: #fff;
+  font-weight: bold;
+}
+
+.nav_bar i {
+    padding: 20px;
+}
+
+.logo  {
+    color: #fff;
+}
